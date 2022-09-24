@@ -5,6 +5,8 @@ For detailed information yoou can search the [official repo](https://github.com/
 and [website](https://pointclouds.org/).
 The main reason of this repo is that learning Point Cloud via hands on implementation with PCL library.
 
+![](https://github.com/Kucukcollu/pcl_tutorials/blob/master/figures/pcd.png)
+
 #### Important Note
 The project has Dockerfile which is inspired from [Daniel Lopez Madrid](https://github.com/DLopezMadrid)
 and it is possible to reach related repo [by link](https://github.com/DLopezMadrid/pcl-docker).
