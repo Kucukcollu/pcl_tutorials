@@ -16,7 +16,7 @@ To run, test and development the codes on the Docker:
 ```bash
 # clone the repo
 $ cd ~/
-$ git clone <url>
+$ git clone https://github.com/Kucukcollu/pcl_tutorials.git
 
 # change directory
 $ cd ~/pcl_tutorials/docker
