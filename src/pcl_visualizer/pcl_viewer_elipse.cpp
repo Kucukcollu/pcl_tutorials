@@ -1,8 +1,7 @@
-/* \author Geoffrey Biggs */
-
 #include <iostream>
 #include <thread>
 
+// PCL
 #include <pcl/common/common_headers.h>
 #include <pcl/features/normal_3d.h>
 #include <pcl/io/pcd_io.h>
