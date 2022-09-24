@@ -30,3 +30,12 @@ $ ./build.sh
 $ ./run.sh
 
 ```
+
+And build the repo in docker
+```bash
+$ cd ~/pcl_tutorials
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make $(nproc)
+```
